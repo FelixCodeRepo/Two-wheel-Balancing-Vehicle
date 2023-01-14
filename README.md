@@ -1,4 +1,4 @@
-# Two-wheel-Balancing-Vehicle (Archived)
+# Two-wheel-Balancing-Vehicle (Archived 2016)
 This project is the first solution for preparation of National University Students' Smart Car Competition (NXP Cup)
 
 Later I modified it with Bluetooth Control

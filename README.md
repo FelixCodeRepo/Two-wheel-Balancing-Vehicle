@@ -11,3 +11,8 @@ Binarization of infrared beacon light
 
 Signal calibration of sensors for balancing control
 ![signalProcessing](https://user-images.githubusercontent.com/89890055/212486764-3713bb77-7d34-4837-b1ca-58338e2468ff.jpg)
+
+Steering Test
+
+Uploading MyVideo_1.mp4…
+

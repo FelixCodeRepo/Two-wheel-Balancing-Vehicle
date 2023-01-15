@@ -1,6 +1,6 @@
 # Two-wheel-Balancing-Vehicle (Archived 2016)
 This project is the first solution for preparation of National University Students' Smart Car Competition (NXP Cup)
-
+Yao helps me in the hardware side, Diyang later came back to our team and we discarded this solution using two-wheel vehicle.
 Later I modified it and add Bluetooth communication.
 
 Image of our Vehicle C1
